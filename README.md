@@ -1,0 +1,2 @@
+# WSBScraper
+This is python script to use the reddit api to scrape a subreddit for submissions and save the results to a mongodb database. It's currently configured to scrape r/wallstreetbets. Rather than OAUTH, it uses reddit's password API so you need a reddit account AND you need to fill out a bot application in order to get a client ID and a client secret key (those should be saved in scrape.config; see scrape.config.sample for an example).

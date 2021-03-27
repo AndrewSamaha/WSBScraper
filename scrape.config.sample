@@ -1,0 +1,8 @@
+[reddit]
+version = 0.001
+appname = samdatasci
+client_id = redditclientid
+client_secret = redditclientsecret
+password = reddituserpassword
+username = redditusername
+platform = linux
